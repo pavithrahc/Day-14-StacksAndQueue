@@ -11,4 +11,5 @@ public class Stack {
 		// TODO Auto-generated method stub
 			list.display();
 		}
+	
 }
