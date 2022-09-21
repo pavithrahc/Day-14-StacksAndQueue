@@ -22,7 +22,8 @@ public class StackMain {
 		stack.display();
 		stack.push(56);
 		stack.display();
-
+		stack.pop();
+		stack.display();
 	}
 
 }

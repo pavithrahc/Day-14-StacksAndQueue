@@ -11,4 +11,7 @@ public class Stack {
 		// TODO Auto-generated method stub
 			list.display();
 		}
+	public void pop() {
+		list.deleteFirst();
+	}
 }
