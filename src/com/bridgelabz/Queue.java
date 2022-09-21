@@ -6,6 +6,9 @@ public class Queue {
 	public void enQueue(Object data) {
 		list.addLast(data);
 	}
+	public void deQueue() {
+		list.deleteFirst();
+	}ue
 	public void display() {
 		list.display();
 	}
